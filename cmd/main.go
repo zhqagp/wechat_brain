@@ -4,7 +4,7 @@ import (
 	"os"
 	"os/signal"
 
-	brain "github.com/sundy-li/wechat_brain"
+	brain "github.com/zhqagp/wechat_brain"
 )
 
 func main() {
